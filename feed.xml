@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Solo Notes</title>
+    <link>https://johnsamilin.github.io</link>
+    <description>Latest stuff from John Samilin</description>
+    <language>ru</language>
+    <lastBuildDate>Tue, 21 Jul 2026 10:49:47 GMT</lastBuildDate>
+    <atom:link href="https://johnsamilin.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <image>
+      <url>https://johnsamilin.github.io/icon.png</url>
+      <title>Solo Notes</title>
+      <link>https://johnsamilin.github.io</link>
+    </image>
+    <item>
+      <title>Theme- Alighieri</title>
+      <link>https://johnsamilin.github.io/?note=Solo%2FTheme-%20Alighieri.html</link>
+      <guid isPermaLink="false">Solo/Theme- Alighieri.html</guid>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 GMT</pubDate>
+      <category>Showcase</category>
+    </item>
+    <item>
+      <title>Theme- FBI</title>
+      <link>https://johnsamilin.github.io/?note=Solo%2FTheme-%20FBI.html</link>
+      <guid isPermaLink="false">Solo/Theme- FBI.html</guid>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 GMT</pubDate>
+      <category>Showcase</category>
+    </item>
+    <item>
+      <title>Theme- air</title>
+      <link>https://johnsamilin.github.io/?note=Solo%2FTheme-%20air.html</link>
+      <guid isPermaLink="false">Solo/Theme- air.html</guid>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 GMT</pubDate>
+      <category>Showcase</category>
+    </item>
+    <item>
+      <title>Theme- narrow</title>
+      <link>https://johnsamilin.github.io/?note=Solo%2FTheme-%20narrow.html</link>
+      <guid isPermaLink="false">Solo/Theme- narrow.html</guid>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 GMT</pubDate>
+      <category>Showcase</category>
+    </item>
+    <item>
+      <title>Theme- terminal</title>
+      <link>https://johnsamilin.github.io/?note=Solo%2FTheme-%20terminal.html</link>
+      <guid isPermaLink="false">Solo/Theme- terminal.html</guid>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 GMT</pubDate>
+      <category>Showcase</category>
+    </item>
+    <item>
+      <title>Theme- typewriter</title>
+      <link>https://johnsamilin.github.io/?note=Solo%2FTheme-%20typewriter.html</link>
+      <guid isPermaLink="false">Solo/Theme- typewriter.html</guid>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 GMT</pubDate>
+      <category>Showcase</category>
+    </item>
+    <item>
+      <title>Who dis</title>
+      <link>https://johnsamilin.github.io/?note=Who%20dis.html</link>
+      <guid isPermaLink="false">Who dis.html</guid>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
