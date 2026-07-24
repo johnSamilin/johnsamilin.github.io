@@ -8,13 +8,19 @@
     <link>https://johnsamilin.github.io</link>
     <description>Latest stuff from John Samilin</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 21 Jul 2026 10:49:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 10:37:30 GMT</lastBuildDate>
     <atom:link href="https://johnsamilin.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://johnsamilin.github.io/icon.png</url>
       <title>Solo Notes</title>
       <link>https://johnsamilin.github.io</link>
     </image>
+    <item>
+      <title>Changelog</title>
+      <link>https://johnsamilin.github.io/?note=Solo%2FChangelog.html</link>
+      <guid isPermaLink="false">Solo/Changelog.html</guid>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Theme- Alighieri</title>
       <link>https://johnsamilin.github.io/?note=Solo%2FTheme-%20Alighieri.html</link>
